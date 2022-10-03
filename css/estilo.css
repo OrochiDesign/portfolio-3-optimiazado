@@ -4,6 +4,7 @@
 @font-face {
     font-family: 'kerox';
     src: url(../css/Kerox-NonCommercial.otf);
+    font-display: swap;
 }
 *{
     font-family: 'kerox', cursive;
